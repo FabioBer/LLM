@@ -1,6 +1,6 @@
 # LLM 
 
-This repository tracks experimentation with Large Language Models.
+This repository tracks personal experimentation with Large Language Models.
 
 It is organized in 
 - data: contaning files to build knowledge bases
