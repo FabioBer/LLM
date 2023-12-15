@@ -1,0 +1,7 @@
+bs4==0.0.1
+tqdm==4.66.11
+chromadb==0.4.19
+langchain==0.0.350
+transformers==4.35.2
+torch==2.1.0+cu118
+sentence-transformers==2.2.2
