@@ -10,6 +10,6 @@ It is organized in
 To run the code examples
 - clone the repo
 - cd in the root folder of the repo
-- pip install -r dependencies/<name_of_your_requirements_file>
+- pip install -r dependencies/requirements.txt
 
 GPU usage is recommended
